@@ -1,5 +1,6 @@
 import argparse
 from numpy.random import random
+from networkx import nx
 
 #setting default parameter values
 p = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter)
